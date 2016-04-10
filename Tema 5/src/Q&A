@@ -1,0 +1,34 @@
+• Ce este moştenirea?
+
+    Mecanismul prin care o clasă preia datele şi metodele unei alte clase la care adaugă elemente specifice.
+
+• Ce este polimorfismul?
+
+    Polimorfismul este capacitatea unor entități de a lua forme diferite.
+
+• Care este domeniul de vizibilitate al unei variabile în Java?
+
+    Conceptul de domeniu de vizibilitate  descrie viata unei variabile, sau zona de disponibilitate,
+    dupa ce aceasta a fost definita.
+
+• Ce este aceea supraîncărcare (overloading) şi suprascriere (overriding) a metodelor?
+
+
+
+• Când putem spune că ascundem (hiding) un atribut într-un lanţ de moştenire (de derivare)?
+
+    Cand este declarat final.
+
+****************************************************************************************************
+
+• Care sunt metodele supraîncărcate (overloaded)?
+
+    print, initialize
+
+• Care sunt metodele suprascrise (overridden)?
+
+    ExtMoney
+
+• Care sunt atributele ascunse?
+
+
