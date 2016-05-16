@@ -16,11 +16,11 @@ public class Main {
 
         for (int i = 0; i < 4; i++) {
 
-            rez = o.operatie(f1, f2);
-            System.out.println(rez);
+//            rez = o.operatie(f1, f2);
+//            System.out.println(rez);
 
-//            zecimale = o.zecimale(f1, f2);
-//            System.out.println(zecimale);
+            zecimale = o.zecimale(f1, f2);
+            System.out.println(zecimale);
 
 
         }

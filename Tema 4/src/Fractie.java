@@ -1,23 +1,23 @@
 public class Fractie {
 
-    public Integer getNumitor() {
-        return numitor;
-    }
+    double numitor;
+    double numarator;
 
-    public void setNumitor(Integer numitor) {
-        this.numitor = numitor;
-    }
-
-    public Integer getNumarator() {
-        return numarator;
-    }
-
-    public void setNumarator(Integer numarator) {
-        this.numarator = numarator;
-    }
-
-    Integer numitor;
-    Integer numarator;
+//    public Integer getNumitor() {
+//        return numitor;
+//    }
+//
+//    public void setNumitor(Integer numitor) {
+//        this.numitor = numitor;
+//    }
+//
+//    public Integer getNumarator() {
+//        return numarator;
+//    }
+//
+//    public void setNumarator(Integer numarator) {
+//        this.numarator = numarator;
+//    }
 
 
 
