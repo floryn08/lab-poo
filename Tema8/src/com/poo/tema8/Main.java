@@ -22,7 +22,7 @@ public class Main {
         Cont<Integer> newCont = new Cont<Integer>("Popescu Ion", listaIBAN, 1234);
 
         Factura<Integer> factura = new Factura<Integer>(12, "Electrica", "Popescu Ion");
-        Chitanta chitanta = new Chitanta(12, "Electrica", "Popescu Ion", 2);
+        Chitanta chitanta = new Chitanta(12, "Electrica", "Popescu Ion", 12);
 
         if (factura.getNumePosesor().equals(newCont.getUserName()) && factura.getNrFactura().equals(chitanta.getNrChitanta())) {
             System.out.println("Factura s-a emis corect!");
